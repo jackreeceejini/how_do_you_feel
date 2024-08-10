@@ -1,16 +1,8 @@
-# how_do_you_feel
+# How Do You Feel App, An Emotion analyzer.
 
-A new Flutter project.
+This app analyzes the user's feelings, by prompting them to decribe how they feel.
+The app analyzes the input and responds with:
+1. A list of emotions contained in the text.
+2. Summarizes the emotions.
+3. And also responds with supportive message to motivate and inspire the user.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
