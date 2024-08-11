@@ -9,3 +9,5 @@ The app analyzes user input and responds with:
 If you cloned this App you need to create a .env file in the root of the project with your Google Gemini API key in this format:
 GEMINI_API_KEY=replace_with_your_own_api_key 
 obtained from: https://ai.google.dev/gemini-api/docs/api-key
+
+A live version of the app written in the Wolfram Language is available for you to play with https://wolfr.am/1ozIQxg2c
